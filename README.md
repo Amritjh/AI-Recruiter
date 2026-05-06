@@ -38,14 +38,10 @@ AI-powered recruitment platform that automates resume parsing, candidate scoring
 ### 📊 Candidate Ranking
 ![Candidate Ranking](assets/candidate_ranking.png)
 
-![Candidate Ranking 2](assets/candidate_ranking_2.png)
-
 ---
 
 ### 📈 Analytics
-![Analytics](assets/analytic_1.png)
-
-![Analytics 2](assets/analytics_2.png)
+![Analytics](assets/analytics.png)
 
 ---
 
